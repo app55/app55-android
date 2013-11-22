@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="app55_padding">10dp</dimen>
+    <dimen name="app55_textsize_title">16dp</dimen>
+    <dimen name="app55_textsize_console">10dp</dimen>
+
+</resources>

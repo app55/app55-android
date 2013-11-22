@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app55_app_name">App55 Android</string>
+    <string name="app55_console_title">Console Output</string>
+    <string name="app55_text_divider">-</string>
+    <string name="app55_run">Run</string>
+
+</resources>
